@@ -26,8 +26,12 @@
 
 ## Installation
 
-    Creat a repo on GitHub and clone it to local computer. Coding for Shape.js, text.js, and index.js. Run the indexsx.js to create a svg file by tthe command line is node index.js
-
+    Creat a repo on GitHub and clone it to local computer.<br>
+    Added code for  get and put methods in database.js<br>
+    Coding to install PWA, and implement asset caching<br>
+    Add and configure workbox plugins for a service worker and manifest file.<br>
+    Add CSS loaders and babel to webpack.<br>
+    Fixed code to get data from IndexDB first.
 ## Usage
 
 ![Sreenshot of App](./client/src/images/TextEditor.png)
